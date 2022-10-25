@@ -1,8 +1,8 @@
 class Tag < Formula
   desc "Manipulate and query tags on macOS files"
   homepage "https://github.com/sneadc/tag/"
-  url "https://github.com/sneadc/tag/archive/refs/tags/v2022.4.01.tar.gz"
-  sha256 "feccb49920848d278ab74ce3a57d00ba2fb0f8e42ec5b66079a165c99741ac1d"
+  url "https://github.com/sneadc/tag/archive/refs/tags/v2022.4.02.tar.gz"
+  sha256 "e37340479a1db19cfc76e1d440018bf14f919c53077ba5abdfd3a95cf2a9f520"
   license "MIT"
   revision 1
   head "https://github.com/sneadc/tag.git", branch: "master"
