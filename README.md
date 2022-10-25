@@ -29,6 +29,6 @@ brew install https://raw.githubusercontent.com/sneadc/homebrew-personal/master/F
 
 `brew help`, `man brew` or check [Homebrew's documentation][].
 
-<!--v2022.4.01-->
+<!--v2022.4.02-->
 
 [Homebrew's documentation]: https://docs.brew.sh
