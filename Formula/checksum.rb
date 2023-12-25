@@ -1,4 +1,4 @@
-class Tag < Formula
+class Checksum < Formula
   desc "Manipulate and query tags on macOS files"
   homepage "https://github.com/sneadc/checksum/"
   url "https://github.com/sneadc/checksum/archive/refs/tags/v0.1.0.tar.gz"
